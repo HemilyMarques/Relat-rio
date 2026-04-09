@@ -1,6 +1,6 @@
-# Relatorio Semanal de Atendimentos Online - 23/03/2026 a 31/03/2026
+# Relatorio Semanal de Atendimentos Online - 01/04/2026 a 08/04/2026
 
-**Data de Emissao:** 01/04/2026
+**Data de Emissao:** 09/04/2026
 
 ## 1. Introducao
 
@@ -14,10 +14,10 @@ A tabela abaixo resume a taxa de cumprimento por criterio no periodo analisado.
 
 | Criterio | Cumprido (%) | Nao Cumprido (%) | Total de Registros |
 | --- | --- | --- | --- |
-| Observacao Interna | 77.6% | 22.4% | 174 |
-| Resolucao | 97.7% | 2.3% | 174 |
-| Cadastro Zendesk | 87.9% | 12.1% | 174 |
-| Avaliacao Geral do Atendimento | 68.4% | 31.6% | 174 |
+| Observacao Interna | 83.2% | 16.8% | 137 |
+| Resolucao | 99.3% | 0.7% | 137 |
+| Cadastro Zendesk | 90.5% | 9.5% | 137 |
+| Avaliacao Geral do Atendimento | 73.0% | 27.0% | 137 |
 
 ## 3. Analise de Desempenho por Colaborador
 
@@ -27,20 +27,20 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 
 | Colaborador | Taxa de Cumprimento Geral | Obs. Interna (C/NC) | Resolucao (C/NC) | Zendesk (C/NC) | Total de Atendimentos |
 | --- | --- | --- | --- | --- | --- |
-| Abraão Araujo Andrade de Oliveira | 100.0% | 12/0 | 12/0 | 12/0 | 12 |
-| Ailla Lopes Pereira | 66.7% | 8/6 | 14/0 | 6/8 | 14 |
-| Bruno Evandro Alves da Conceição | 66.7% | 0/14 | 14/0 | 14/0 | 14 |
-| Camila Gonçalves Bezerra Lopes | 100.0% | 14/0 | 14/0 | 14/0 | 14 |
-| Cassia de Menezes Barboza | 66.7% | 8/6 | 14/0 | 6/8 | 14 |
-| Diego Luciano Duarte Valença | 100.0% | 14/0 | 14/0 | 14/0 | 14 |
-| Gisele Mendonça Damasceno | 97.6% | 14/0 | 14/0 | 13/1 | 14 |
-| Greice Kelly de Andrade Nantet | 100.0% | 12/0 | 12/0 | 12/0 | 12 |
-| Juliana Frontino Ribeiro | 88.1% | 10/4 | 14/0 | 13/1 | 14 |
-| Maria Luiza Baldan Belzoff Fonseca | 100.0% | 2/0 | 2/0 | 2/0 | 2 |
-| Mariana Martins da Silva | 94.4% | 11/1 | 12/0 | 11/1 | 12 |
-| Samara Rodrigues da Silva Barbosa | 100.0% | 14/0 | 14/0 | 14/0 | 14 |
-| Victor Cauã Gomes Maciel | 91.7% | 12/0 | 12/0 | 10/2 | 12 |
-| Yasmim da Silva Gerk | 66.7% | 4/8 | 8/4 | 12/0 | 12 |
+| Abraão Araujo Andrade de Oliveira | 100.0% | 10/0 | 10/0 | 10/0 | 10 |
+| Ailla Lopes Pereira | 83.3% | 7/3 | 10/0 | 8/2 | 10 |
+| Bruno Evandro Alves da Conceição | 66.7% | 0/10 | 10/0 | 10/0 | 10 |
+| Camila Gonçalves Bezerra Lopes | 96.7% | 10/0 | 10/0 | 9/1 | 10 |
+| Cassia de Menezes Barboza | 76.7% | 9/1 | 9/1 | 5/5 | 10 |
+| Diego Luciano Duarte Valença | 96.7% | 9/1 | 10/0 | 10/0 | 10 |
+| Gisele Mendonça Damasceno | 90.0% | 10/0 | 10/0 | 7/3 | 10 |
+| Greice Kelly de Andrade Nantet | 96.7% | 9/1 | 10/0 | 10/0 | 10 |
+| Juliana Frontino Ribeiro | 96.7% | 10/0 | 10/0 | 9/1 | 10 |
+| Maria Luiza Baldan Belzoff Fonseca | 96.7% | 10/0 | 10/0 | 9/1 | 10 |
+| Mariana Martins da Silva | 96.7% | 9/1 | 10/0 | 10/0 | 10 |
+| Samara Rodrigues da Silva Barbosa | 100.0% | 10/0 | 10/0 | 10/0 | 10 |
+| Victor Cauã Gomes Maciel | 100.0% | 9/0 | 9/0 | 9/0 | 9 |
+| Yasmim da Silva Gerk | 75.0% | 2/6 | 8/0 | 8/0 | 8 |
 
 **Legenda:** `C/NC` = Cumprido / Nao Cumprido.
 
@@ -48,207 +48,170 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 
 ### Observações Detalhadas
 
-**Abraão Araujo Andrade de Oliveira** - 0 ponto(s) de atencao, 12 ponto(s) positivo(s)
-- ✅ Ticket 28070 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28136 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28410 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28543 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28866 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28872 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29600 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29647 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30031 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30162 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30434 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30629 | Chat | Correto | Sem observação adicional.
+**Abraão Araujo Andrade de Oliveira** - 0 ponto(s) de atencao, 10 ponto(s) positivo(s)
+- ✅ Ticket 31034 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31079 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31394 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31542 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32134 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32163 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32415 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32508 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32888 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 33046 | Chat | Correto | Sem observação adicional.
 
-**Ailla Lopes Pereira** - 11 ponto(s) de atencao, 3 ponto(s) positivo(s)
-- ⚠️ Ticket 27965 | Chat | Atenção | Enviado avaliação final / acolhedor de experiência atendendo interessado
-- ⚠️ Ticket 28132 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 28741 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 28752 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 28869 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 28925 | Chat | Atenção | Atendimento superficial, sem acolhimento e sem direcionamento para alternativas (baixa renda), com foco apenas na compra e risco de perda do associado.
-- ⚠️ Ticket 29199 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 29480 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 29535 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 29665 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 30123 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 30143 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 30476 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 30637 | Chat | Atenção | Enviado avaliação final
+**Ailla Lopes Pereira** - 5 ponto(s) de atencao, 5 ponto(s) positivo(s)
+- ⚠️ Ticket 31009 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 31233 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 31486 | Chat | Atenção | Sem tentativa de retenção diante de objeção de pagamento
+- ✅ Ticket 31724 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 32269 | Chat | Atenção | Encerramento indevido: havia tempo para resposta e não foi direcionado como pendente
+- ✅ Ticket 32300 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32428 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32727 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 32920 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 33114 | Chat | Correto | Enviado avaliação final
 
-**Bruno Evandro Alves da Conceição** - 14 ponto(s) de atencao, 0 ponto(s) positivo(s)
-- ⚠️ Ticket 27976 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 28117 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 28450 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 28456 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 28886 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 28892 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 29225 | Chat | Atenção | Nõ retornou o associado com uma resolução
-- ⚠️ Ticket 29434 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 29584 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 29631 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 29972 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 30150 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 30627 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 30770 | Chat | Atenção | Enviado avaliação final
+**Bruno Evandro Alves da Conceição** - 10 ponto(s) de atencao, 0 ponto(s) positivo(s)
+- ⚠️ Ticket 30928 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 30976 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 31481 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 31654 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 31968 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 31986 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 32670 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 32745 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 32841 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 33093 | Chat | Atenção | Enviado avaliação final
 
-**Camila Gonçalves Bezerra Lopes** - 0 ponto(s) de atencao, 14 ponto(s) positivo(s)
-- ✅ Ticket 28031 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 28094 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28585 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 28638 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 28883 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29014 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29209 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29232 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29586 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29658 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30185 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30231 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30484 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30651 | Chat | Correto | Enviado avaliação final
+**Camila Gonçalves Bezerra Lopes** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+- ✅ Ticket 31011 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 31104 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 31421 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 31622 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 31952 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 31985 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32545 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32624 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32864 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 33118 | Chat | Correto | Enviado avaliação final
 
-**Cassia de Menezes Barboza** - 11 ponto(s) de atencao, 3 ponto(s) positivo(s)
-- ⚠️ Ticket 27953 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 27969 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 28441 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 28571 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 28811 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 28853 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 29205 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 29265 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 29569 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29679 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 29879 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 29892 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 30426 | Email | Atenção | Enviado avaliação final
-- ⚠️ Ticket 30448 | Chat | Atenção | Enviado avaliação final
+**Cassia de Menezes Barboza** - 7 ponto(s) de atencao, 3 ponto(s) positivo(s)
+- ⚠️ Ticket 30945 | Chat | Atenção | Não retornou o associado com um resposta
+- ⚠️ Ticket 31001 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 31480 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 31664 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 31827 | Email | Atenção | Sem observação adicional.
+- ⚠️ Ticket 31924 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 32359 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 32392 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32976 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 33048 | Chat | Correto | Sem observação adicional.
 
-**Diego Luciano Duarte Valença** - 0 ponto(s) de atencao, 14 ponto(s) positivo(s)
-- ✅ Ticket 28128 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28273 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28522 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28675 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29028 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29044 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29373 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29453 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29722 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29773 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30219 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30248 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30538 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30630 | Chat | Correto | Enviado avaliação final
+**Diego Luciano Duarte Valença** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+- ✅ Ticket 31261 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31318 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 31546 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31694 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32011 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32301 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32514 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32655 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32972 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 33122 | Chat | Atenção | Sem observação adicional.
 
-**Gisele Mendonça Damasceno** - 1 ponto(s) de atencao, 13 ponto(s) positivo(s)
-- ✅ Ticket 28177 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28228 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28472 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28687 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29006 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29034 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29208 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29391 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29650 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 29831 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 30120 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 30277 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 30467 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30672 | Chat | Correto | Sem observação adicional.
+**Gisele Mendonça Damasceno** - 3 ponto(s) de atencao, 7 ponto(s) positivo(s)
+- ✅ Ticket 31018 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31288 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 31446 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 31507 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 31969 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31979 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32427 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 32616 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 32862 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 33091 | Ligação | Atenção | Sem observação adicional.
 
-**Greice Kelly de Andrade Nantet** - 2 ponto(s) de atencao, 10 ponto(s) positivo(s)
-- ⚠️ Ticket 27928 | Chat | Atenção | Envio de mensagem com identificação de IA, seguido de reenvio do mesmo conteúdo sem contextualização, gerando inconsistência e impactando a credibilidade do atendimento.
-- ✅ Ticket 28102 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28445 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28487 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29032 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29090 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29604 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 29772 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 30124 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30208 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30530 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30596 | Chat | Correto | Enviado avaliação final
+**Greice Kelly de Andrade Nantet** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+- ✅ Ticket 30991 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 31060 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 31521 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 31630 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 31896 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 31908 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32687 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32712 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32814 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32844 | Chat | Correto | Enviado avaliação final
 
-**Juliana Frontino Ribeiro** - 5 ponto(s) de atencao, 9 ponto(s) positivo(s)
-- ⚠️ Ticket 27887 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 28015 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 28517 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 28644 | Redes Sociais | Atenção | Sem observação adicional.
-- ✅ Ticket 29015 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29025 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29233 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29240 | Redes Sociais | Correto | Enviado avaliação final
-- ✅ Ticket 29587 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 29811 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 30023 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 30210 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30693 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30737 | Chat | Correto | Enviado avaliação final
+**Juliana Frontino Ribeiro** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+- ✅ Ticket 31027 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31247 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 31444 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31451 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32040 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32089 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32630 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32654 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 33017 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 33098 | Chat | Atenção | Enviado avaliação final
 
-**Maria Luiza Baldan Belzoff Fonseca** - 0 ponto(s) de atencao, 2 ponto(s) positivo(s)
-- ✅ Ticket 30653 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30684 | Chat | Correto | Enviado avaliação final
+**Maria Luiza Baldan Belzoff Fonseca** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+- ✅ Ticket 30963 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31189 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31679 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 31688 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32121 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32198 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32523 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32575 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 32880 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 32996 | Chat | Correto | Enviado avaliação final
 
-**Mariana Martins da Silva** - 1 ponto(s) de atencao, 11 ponto(s) positivo(s)
-- ✅ Ticket 28089 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28239 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 28532 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 28775 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29038 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29121 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29409 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29465 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29656 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29870 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30722 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30730 | Chat | Correto | Enviado avaliação final
+**Mariana Martins da Silva** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+- ✅ Ticket 31106 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31142 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 31397 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 31545 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32007 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32202 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32521 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32719 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 33153 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 33156 | Chat | Correto | Sem observação adicional.
 
-**Samara Rodrigues da Silva Barbosa** - 0 ponto(s) de atencao, 14 ponto(s) positivo(s)
-- ✅ Ticket 27963 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 28050 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 28476 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 28535 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 28804 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 28817 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29280 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29355 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29598 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29761 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 29993 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 29997 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 30419 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30655 | Chat | Correto | Enviado avaliação final
+**Samara Rodrigues da Silva Barbosa** - 0 ponto(s) de atencao, 10 ponto(s) positivo(s)
+- ✅ Ticket 30961 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 31081 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 31536 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 31695 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32091 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32158 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 32326 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32561 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32836 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32852 | Chat | Correto | Sem observação adicional.
 
-**Victor Cauã Gomes Maciel** - 2 ponto(s) de atencao, 10 ponto(s) positivo(s)
-- ✅ Ticket 28007 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 28049 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 28631 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 28980 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 28987 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 29363 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 29383 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 29595 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 29614 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 29632 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 30279 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 30742 | Ligação | Correto | Sem observação adicional.
+**Victor Cauã Gomes Maciel** - 0 ponto(s) de atencao, 9 ponto(s) positivo(s)
+- ✅ Ticket 31013 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 31085 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 31431 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 31470 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 32071 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 32431 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 32431 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 32679 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 32866 | Ligação | Correto | Sem observação adicional.
 
-**Yasmim da Silva Gerk** - 8 ponto(s) de atencao, 4 ponto(s) positivo(s)
-- ⚠️ Ticket 28435 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 28478 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 28843 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 28884 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 29203 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 29212 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 29725 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 29763 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 30082 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 30167 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 30468 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 30602 | Chat | Correto | Enviado avaliação final
+**Yasmim da Silva Gerk** - 6 ponto(s) de atencao, 2 ponto(s) positivo(s)
+- ⚠️ Ticket 31103 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 31190 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 31573 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 31648 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 31904 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 32064 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 32834 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 32870 | Chat | Correto | Sem observação adicional.
 
 
 ## 5. Conclusoes e Recomendacoes
