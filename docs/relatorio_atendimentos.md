@@ -1,6 +1,6 @@
-# Relatorio Semanal de Atendimentos Online - 01/04/2026 a 08/04/2026
+# Relatorio Semanal de Atendimentos Online - 01/04/2026 a 09/04/2026
 
-**Data de Emissao:** 09/04/2026
+**Data de Emissao:** 10/04/2026
 
 ## 1. Introducao
 
@@ -14,10 +14,10 @@ A tabela abaixo resume a taxa de cumprimento por criterio no periodo analisado.
 
 | Criterio | Cumprido (%) | Nao Cumprido (%) | Total de Registros |
 | --- | --- | --- | --- |
-| Observacao Interna | 83.2% | 16.8% | 137 |
-| Resolucao | 99.3% | 0.7% | 137 |
-| Cadastro Zendesk | 90.5% | 9.5% | 137 |
-| Avaliacao Geral do Atendimento | 73.0% | 27.0% | 137 |
+| Observacao Interna | 83.0% | 17.0% | 165 |
+| Resolucao | 99.4% | 0.6% | 165 |
+| Cadastro Zendesk | 89.7% | 10.3% | 165 |
+| Avaliacao Geral do Atendimento | 72.1% | 27.9% | 165 |
 
 ## 3. Analise de Desempenho por Colaborador
 
@@ -27,20 +27,20 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 
 | Colaborador | Taxa de Cumprimento Geral | Obs. Interna (C/NC) | Resolucao (C/NC) | Zendesk (C/NC) | Total de Atendimentos |
 | --- | --- | --- | --- | --- | --- |
-| Abraão Araujo Andrade de Oliveira | 100.0% | 10/0 | 10/0 | 10/0 | 10 |
-| Ailla Lopes Pereira | 83.3% | 7/3 | 10/0 | 8/2 | 10 |
-| Bruno Evandro Alves da Conceição | 66.7% | 0/10 | 10/0 | 10/0 | 10 |
-| Camila Gonçalves Bezerra Lopes | 96.7% | 10/0 | 10/0 | 9/1 | 10 |
-| Cassia de Menezes Barboza | 76.7% | 9/1 | 9/1 | 5/5 | 10 |
-| Diego Luciano Duarte Valença | 96.7% | 9/1 | 10/0 | 10/0 | 10 |
-| Gisele Mendonça Damasceno | 90.0% | 10/0 | 10/0 | 7/3 | 10 |
-| Greice Kelly de Andrade Nantet | 96.7% | 9/1 | 10/0 | 10/0 | 10 |
-| Juliana Frontino Ribeiro | 96.7% | 10/0 | 10/0 | 9/1 | 10 |
-| Maria Luiza Baldan Belzoff Fonseca | 96.7% | 10/0 | 10/0 | 9/1 | 10 |
-| Mariana Martins da Silva | 96.7% | 9/1 | 10/0 | 10/0 | 10 |
-| Samara Rodrigues da Silva Barbosa | 100.0% | 10/0 | 10/0 | 10/0 | 10 |
-| Victor Cauã Gomes Maciel | 100.0% | 9/0 | 9/0 | 9/0 | 9 |
-| Yasmim da Silva Gerk | 75.0% | 2/6 | 8/0 | 8/0 | 8 |
+| Abraão Araujo Andrade de Oliveira | 100.0% | 12/0 | 12/0 | 12/0 | 12 |
+| Ailla Lopes Pereira | 83.3% | 9/3 | 12/0 | 9/3 | 12 |
+| Bruno Evandro Alves da Conceição | 69.4% | 1/11 | 12/0 | 12/0 | 12 |
+| Camila Gonçalves Bezerra Lopes | 94.4% | 12/0 | 12/0 | 10/2 | 12 |
+| Cassia de Menezes Barboza | 77.8% | 10/2 | 11/1 | 7/5 | 12 |
+| Diego Luciano Duarte Valença | 97.2% | 11/1 | 12/0 | 12/0 | 12 |
+| Gisele Mendonça Damasceno | 88.9% | 12/0 | 12/0 | 8/4 | 12 |
+| Greice Kelly de Andrade Nantet | 97.2% | 11/1 | 12/0 | 12/0 | 12 |
+| Juliana Frontino Ribeiro | 91.7% | 10/2 | 12/0 | 11/1 | 12 |
+| Maria Luiza Baldan Belzoff Fonseca | 97.2% | 12/0 | 12/0 | 11/1 | 12 |
+| Mariana Martins da Silva | 97.2% | 11/1 | 12/0 | 12/0 | 12 |
+| Samara Rodrigues da Silva Barbosa | 97.2% | 12/0 | 12/0 | 11/1 | 12 |
+| Victor Cauã Gomes Maciel | 100.0% | 11/0 | 11/0 | 11/0 | 11 |
+| Yasmim da Silva Gerk | 76.7% | 3/7 | 10/0 | 10/0 | 10 |
 
 **Legenda:** `C/NC` = Cumprido / Nao Cumprido.
 
@@ -48,7 +48,7 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 
 ### Observações Detalhadas
 
-**Abraão Araujo Andrade de Oliveira** - 0 ponto(s) de atencao, 10 ponto(s) positivo(s)
+**Abraão Araujo Andrade de Oliveira** - 0 ponto(s) de atencao, 12 ponto(s) positivo(s)
 - ✅ Ticket 31034 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 31079 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 31394 | Chat | Correto | Sem observação adicional.
@@ -59,8 +59,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 32508 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 32888 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 33046 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 33430 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 33430 | Chat | Correto | Sem observação adicional.
 
-**Ailla Lopes Pereira** - 5 ponto(s) de atencao, 5 ponto(s) positivo(s)
+**Ailla Lopes Pereira** - 6 ponto(s) de atencao, 6 ponto(s) positivo(s)
 - ⚠️ Ticket 31009 | Chat | Atenção | Enviado avaliação final
 - ⚠️ Ticket 31233 | Chat | Atenção | Enviado avaliação final
 - ⚠️ Ticket 31486 | Chat | Atenção | Sem tentativa de retenção diante de objeção de pagamento
@@ -71,8 +73,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 32727 | Chat | Correto | Sem observação adicional.
 - ⚠️ Ticket 32920 | Chat | Atenção | Enviado avaliação final
 - ✅ Ticket 33114 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 33287 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 33676 | Chat | Correto | Enviado avaliação final
 
-**Bruno Evandro Alves da Conceição** - 10 ponto(s) de atencao, 0 ponto(s) positivo(s)
+**Bruno Evandro Alves da Conceição** - 11 ponto(s) de atencao, 1 ponto(s) positivo(s)
 - ⚠️ Ticket 30928 | Chat | Atenção | Sem observação adicional.
 - ⚠️ Ticket 30976 | Chat | Atenção | Enviado avaliação final
 - ⚠️ Ticket 31481 | Chat | Atenção | Sem observação adicional.
@@ -83,8 +87,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ⚠️ Ticket 32745 | Chat | Atenção | Sem observação adicional.
 - ⚠️ Ticket 32841 | Chat | Atenção | Enviado avaliação final
 - ⚠️ Ticket 33093 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 33516 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 33579 | Chat | Atenção | Sem observação adicional.
 
-**Camila Gonçalves Bezerra Lopes** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+**Camila Gonçalves Bezerra Lopes** - 2 ponto(s) de atencao, 10 ponto(s) positivo(s)
 - ✅ Ticket 31011 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 31104 | Chat | Correto | Enviado avaliação final
 - ⚠️ Ticket 31421 | Chat | Atenção | Enviado avaliação final
@@ -95,8 +101,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 32624 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 32864 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 33118 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 33254 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 33468 | Chat | Atenção | Enviado avaliação final
 
-**Cassia de Menezes Barboza** - 7 ponto(s) de atencao, 3 ponto(s) positivo(s)
+**Cassia de Menezes Barboza** - 8 ponto(s) de atencao, 4 ponto(s) positivo(s)
 - ⚠️ Ticket 30945 | Chat | Atenção | Não retornou o associado com um resposta
 - ⚠️ Ticket 31001 | Chat | Atenção | Sem observação adicional.
 - ⚠️ Ticket 31480 | Chat | Atenção | Sem observação adicional.
@@ -107,8 +115,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 32392 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 32976 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 33048 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 33224 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 33427 | Chat | Atenção | Sem observação adicional.
 
-**Diego Luciano Duarte Valença** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+**Diego Luciano Duarte Valença** - 1 ponto(s) de atencao, 11 ponto(s) positivo(s)
 - ✅ Ticket 31261 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 31318 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 31546 | Chat | Correto | Sem observação adicional.
@@ -119,8 +129,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 32655 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 32972 | Chat | Correto | Enviado avaliação final
 - ⚠️ Ticket 33122 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 33352 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 33407 | Chat | Correto | Enviado avaliação final
 
-**Gisele Mendonça Damasceno** - 3 ponto(s) de atencao, 7 ponto(s) positivo(s)
+**Gisele Mendonça Damasceno** - 4 ponto(s) de atencao, 8 ponto(s) positivo(s)
 - ✅ Ticket 31018 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 31288 | Ligação | Correto | Sem observação adicional.
 - ⚠️ Ticket 31446 | Chat | Atenção | Sem observação adicional.
@@ -131,8 +143,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ⚠️ Ticket 32616 | Chat | Atenção | Sem observação adicional.
 - ✅ Ticket 32862 | Chat | Correto | Sem observação adicional.
 - ⚠️ Ticket 33091 | Ligação | Atenção | Sem observação adicional.
+- ⚠️ Ticket 33307 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 33448 | Chat | Correto | Sem observação adicional.
 
-**Greice Kelly de Andrade Nantet** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+**Greice Kelly de Andrade Nantet** - 1 ponto(s) de atencao, 11 ponto(s) positivo(s)
 - ✅ Ticket 30991 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 31060 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 31521 | Chat | Correto | Enviado avaliação final
@@ -143,8 +157,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 32712 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 32814 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 32844 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 33355 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 33544 | Chat | Correto | Enviado avaliação final
 
-**Juliana Frontino Ribeiro** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+**Juliana Frontino Ribeiro** - 3 ponto(s) de atencao, 9 ponto(s) positivo(s)
 - ✅ Ticket 31027 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 31247 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 31444 | Chat | Correto | Sem observação adicional.
@@ -155,8 +171,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 32654 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 33017 | Chat | Correto | Enviado avaliação final
 - ⚠️ Ticket 33098 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 33274 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 33300 | Chat | Atenção | Enviado avaliação final
 
-**Maria Luiza Baldan Belzoff Fonseca** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+**Maria Luiza Baldan Belzoff Fonseca** - 1 ponto(s) de atencao, 11 ponto(s) positivo(s)
 - ✅ Ticket 30963 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 31189 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 31679 | Chat | Correto | Enviado avaliação final
@@ -167,8 +185,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 32575 | Chat | Correto | Sem observação adicional.
 - ⚠️ Ticket 32880 | Chat | Atenção | Enviado avaliação final
 - ✅ Ticket 32996 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 33275 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 33709 | Chat | Correto | Enviado avaliação final
 
-**Mariana Martins da Silva** - 1 ponto(s) de atencao, 9 ponto(s) positivo(s)
+**Mariana Martins da Silva** - 1 ponto(s) de atencao, 11 ponto(s) positivo(s)
 - ✅ Ticket 31106 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 31142 | Chat | Correto | Enviado avaliação final
 - ⚠️ Ticket 31397 | Chat | Atenção | Enviado avaliação final
@@ -179,8 +199,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 32719 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 33153 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 33156 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 33391 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 33639 | Chat | Correto | Enviado avaliação final
 
-**Samara Rodrigues da Silva Barbosa** - 0 ponto(s) de atencao, 10 ponto(s) positivo(s)
+**Samara Rodrigues da Silva Barbosa** - 1 ponto(s) de atencao, 11 ponto(s) positivo(s)
 - ✅ Ticket 30961 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 31081 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 31536 | Chat | Correto | Enviado avaliação final
@@ -191,8 +213,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 32561 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 32836 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 32852 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 33227 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 33438 | Chat | Atenção | Enviado avaliação final
 
-**Victor Cauã Gomes Maciel** - 0 ponto(s) de atencao, 9 ponto(s) positivo(s)
+**Victor Cauã Gomes Maciel** - 0 ponto(s) de atencao, 11 ponto(s) positivo(s)
 - ✅ Ticket 31013 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 31085 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 31431 | Ligação | Correto | Sem observação adicional.
@@ -202,8 +226,10 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 32431 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 32679 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 32866 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 33348 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 33404 | Ligação | Correto | Sem observação adicional.
 
-**Yasmim da Silva Gerk** - 6 ponto(s) de atencao, 2 ponto(s) positivo(s)
+**Yasmim da Silva Gerk** - 7 ponto(s) de atencao, 3 ponto(s) positivo(s)
 - ⚠️ Ticket 31103 | Chat | Atenção | Sem observação adicional.
 - ⚠️ Ticket 31190 | Chat | Atenção | Sem observação adicional.
 - ⚠️ Ticket 31573 | Chat | Atenção | Sem observação adicional.
@@ -212,6 +238,8 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ⚠️ Ticket 32064 | Chat | Atenção | Sem observação adicional.
 - ✅ Ticket 32834 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 32870 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 33261 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 33382 | Chat | Atenção | Sem observação adicional.
 
 
 ## 5. Conclusoes e Recomendacoes
