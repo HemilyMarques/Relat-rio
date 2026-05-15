@@ -14,10 +14,10 @@ A tabela abaixo resume a taxa de cumprimento por criterio no periodo analisado.
 
 | Criterio | Cumprido (%) | Nao Cumprido (%) | Total de Registros |
 | --- | --- | --- | --- |
-| Observacao Interna | 91.3% | 8.7% | 104 |
-| Resolucao | 100.0% | 0.0% | 104 |
-| Cadastro Zendesk | 87.5% | 12.5% | 104 |
-| Avaliacao Geral do Atendimento | 77.9% | 22.1% | 104 |
+| Observacao Interna | 91.2% | 8.8% | 102 |
+| Resolucao | 100.0% | 0.0% | 102 |
+| Cadastro Zendesk | 87.3% | 12.7% | 102 |
+| Avaliacao Geral do Atendimento | 77.5% | 22.5% | 102 |
 
 ## 3. Analise de Desempenho por Colaborador
 
@@ -28,7 +28,6 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 | Colaborador | Taxa de Cumprimento Geral | Obs. Interna (C/NC) | Resolucao (C/NC) | Zendesk (C/NC) | Total de Atendimentos |
 | --- | --- | --- | --- | --- | --- |
 | Ailla Lopes Pereira | 100.0% | 10/0 | 10/0 | 10/0 | 10 |
-| Bruno Evandro Alves da Conceição | 100.0% | 2/0 | 2/0 | 2/0 | 2 |
 | Cassia de Menezes Barboza | 83.3% | 5/3 | 8/0 | 7/1 | 8 |
 | Diego Luciano Duarte Valença | 93.3% | 8/2 | 10/0 | 10/0 | 10 |
 | Gisele Mendonça Damasceno | 96.7% | 9/1 | 10/0 | 10/0 | 10 |
@@ -57,10 +56,6 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 44753 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 45043 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 45044 | Chat | Correto | Enviado avaliação final
-
-**Bruno Evandro Alves da Conceição** - 0 ponto(s) de atencao, 2 ponto(s) positivo(s)
-- ✅ Ticket 43198 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 43471 | Chat | Correto | Enviado avaliação final
 
 **Cassia de Menezes Barboza** - 4 ponto(s) de atencao, 4 ponto(s) positivo(s)
 - ⚠️ Ticket 43077 | Email | Atenção | Sem observação adicional.
