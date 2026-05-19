@@ -15,9 +15,9 @@ from typing import Iterable
 import pandas as pd
 
 
-SPECIAL_RULES = {
-    "victor caua gomes maciel": {"exclude_from_general_rate": {"resolucao"}},
-}
+#SPECIAL_RULES = {
+#    "victor caua gomes maciel": {"exclude_from_general_rate": {"resolucao"}},
+#}
 
 
 DISPLAY_LABELS = {
