@@ -1,6 +1,6 @@
 # Relatorio Semanal de Atendimentos Online - 11/05/2026 a 15/05/2026
 
-**Data de Emissao:** 18/05/2026
+**Data de Emissao:** 19/05/2026
 
 ## 1. Introducao
 
@@ -36,7 +36,7 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 | Maria Luiza Baldan Belzoff Fonseca | 93.3% | 10/0 | 10/0 | 8/2 | 10 |
 | Mariana Martins da Silva | 96.7% | 9/1 | 10/0 | 10/0 | 10 |
 | Samara Rodrigues da Silva Barbosa | 100.0% | 10/0 | 10/0 | 10/0 | 10 |
-| Victor Cauã Gomes Maciel | 95.0% | 10/0 | 10/0 | 9/1 | 10 |
+| Victor Cauã Gomes Maciel | 96.7% | 10/0 | 10/0 | 9/1 | 10 |
 | Yasmim da Silva Gerk | 83.3% | 10/0 | 10/0 | 5/5 | 10 |
 
 **Legenda:** `C/NC` = Cumprido / Nao Cumprido.
