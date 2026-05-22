@@ -27,13 +27,13 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 
 | Colaborador | Taxa de Cumprimento Geral | Obs. Interna (C/NC) | Resolucao (C/NC) | Zendesk (C/NC) | Total de Atendimentos |
 | --- | --- | --- | --- | --- | --- |
-| Abraão Araujo Andrade de Oliveira | 100.0% | 6/0 | 6/0 | 6/0 | 6 |
+| Abraão Araujo Andrade de Oliveira | 100.0% | 4/0 | 4/0 | 4/0 | 4 |
 | Ailla Lopes Pereira | 100.0% | 8/0 | 8/0 | 8/0 | 8 |
 | Bruno Evandro Alves da Conceição | 93.3% | 9/1 | 10/0 | 9/1 | 10 |
 | Cassia de Menezes Barboza | 75.0% | 4/4 | 8/0 | 6/2 | 8 |
 | Diego Luciano Duarte Valença | 100.0% | 10/0 | 10/0 | 10/0 | 10 |
 | Gisele Mendonça Damasceno | 96.7% | 9/1 | 10/0 | 10/0 | 10 |
-| Greice Kelly de Andrade Nantet | 100.0% | 6/0 | 6/0 | 6/0 | 6 |
+| Greice Kelly de Andrade Nantet | 100.0% | 8/0 | 8/0 | 8/0 | 8 |
 | Juliana Frontino Ribeiro | 100.0% | 10/0 | 10/0 | 10/0 | 10 |
 | Maria Luiza Baldan Belzoff Fonseca | 93.3% | 10/0 | 10/0 | 8/2 | 10 |
 | Mariana Martins da Silva | 100.0% | 10/0 | 10/0 | 10/0 | 10 |
@@ -47,13 +47,11 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 
 ### Observações Detalhadas
 
-**Abraão Araujo Andrade de Oliveira** - 0 ponto(s) de atencao, 6 ponto(s) positivo(s)
+**Abraão Araujo Andrade de Oliveira** - 0 ponto(s) de atencao, 4 ponto(s) positivo(s)
 - ✅ Ticket 46611 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 46729 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 46988 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 47046 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 47273 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 47300 | Chat | Correto | Sem observação adicional.
 
 **Ailla Lopes Pereira** - 0 ponto(s) de atencao, 8 ponto(s) positivo(s)
 - ✅ Ticket 45797 | Chat | Correto | Enviado avaliação final
@@ -111,11 +109,13 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 47344 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 47367 | Chat | Correto | Sem observação adicional.
 
-**Greice Kelly de Andrade Nantet** - 0 ponto(s) de atencao, 6 ponto(s) positivo(s)
+**Greice Kelly de Andrade Nantet** - 0 ponto(s) de atencao, 8 ponto(s) positivo(s)
 - ✅ Ticket 45694 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 45918 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 46478 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 46479 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 46969 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 47015 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 47251 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 47311 | Chat | Correto | Enviado avaliação final
 
