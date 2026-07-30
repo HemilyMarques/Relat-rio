@@ -1,6 +1,6 @@
 # Relatorio Semanal de Atendimentos Online - 20/07/2026 a 24/07/2026
 
-**Data de Emissao:** 28/07/2026
+**Data de Emissao:** 30/07/2026
 
 ## 1. Introducao
 
@@ -14,10 +14,10 @@ A tabela abaixo resume a taxa de cumprimento por criterio no periodo analisado.
 
 | Criterio | Cumprido (%) | Nao Cumprido (%) | Total de Registros |
 | --- | --- | --- | --- |
-| Observacao Interna | 92.0% | 8.0% | 174 |
-| Resolucao | 100.0% | 0.0% | 174 |
-| Cadastro Zendesk | 92.5% | 7.5% | 174 |
-| Avaliacao Geral do Atendimento | 85.6% | 14.4% | 174 |
+| Observacao Interna | 90.7% | 9.3% | 194 |
+| Resolucao | 100.0% | 0.0% | 194 |
+| Cadastro Zendesk | 91.8% | 8.2% | 194 |
+| Avaliacao Geral do Atendimento | 83.5% | 16.5% | 194 |
 
 ## 3. Analise de Desempenho por Colaborador
 
@@ -35,6 +35,7 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 | Juliana Frontino Ribeiro | 91.7% | 17/3 | 20/0 | 18/2 | 20 |
 | Maria Luiza Baldan Belzoff Fonseca | 88.9% | 3/0 | 3/0 | 2/1 | 3 |
 | Mariana Martins da Silva | 100.0% | 20/0 | 20/0 | 20/0 | 20 |
+| Samara Rodrigues da Silva Barbosa | 88.3% | 16/4 | 20/0 | 17/3 | 20 |
 | Victor Cauã Gomes Maciel | 97.8% | 15/0 | 15/0 | 14/1 | 15 |
 | Yasmim da Silva Gerk | 98.3% | 20/0 | 20/0 | 19/1 | 20 |
 
@@ -198,6 +199,28 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 66122 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 66194 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 66213 | Chat | Correto | Sem observação adicional.
+
+**Samara Rodrigues da Silva Barbosa** - 7 ponto(s) de atencao, 13 ponto(s) positivo(s)
+- ✅ Ticket 64383 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 64396 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 64409 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 64498 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 64748 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 64814 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 65065 | Ligação | Atenção | Sem observação adicional.
+- ✅ Ticket 65172 | Redes Sociais | Correto | Sem observação adicional.
+- ✅ Ticket 65228 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 65247 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 65313 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 65377 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 65615 | Ligação | Atenção | Sem observação adicional.
+- ✅ Ticket 65620 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 65675 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 65690 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 66029 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 66034 | Ligação | Atenção | Sem observação adicional.
+- ⚠️ Ticket 66093 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 66106 | Ligação | Correto | Sem observação adicional.
 
 **Victor Cauã Gomes Maciel** - 1 ponto(s) de atencao, 14 ponto(s) positivo(s)
 - ✅ Ticket 64443 | Ligação | Correto | Sem observação adicional.
