@@ -1,6 +1,6 @@
-# Relatorio Semanal de Atendimentos Online - 03/08/2026 a 31/08/2026
+# Relatorio Semanal de Atendimentos Online - 01/09/2026 a 04/09/2026
 
-**Data de Emissao:** 31/08/2026
+**Data de Emissao:** 10/09/2026
 
 ## 1. Introducao
 
@@ -14,10 +14,10 @@ A tabela abaixo resume a taxa de cumprimento por criterio no periodo analisado.
 
 | Criterio | Cumprido (%) | Nao Cumprido (%) | Total de Registros |
 | --- | --- | --- | --- |
-| Observacao Interna | 93.9% | 6.1% | 759 |
-| Resolucao | 100.0% | 0.0% | 759 |
-| Cadastro Zendesk | 91.6% | 8.4% | 759 |
-| Avaliacao Geral do Atendimento | 85.6% | 14.4% | 759 |
+| Observacao Interna | 92.1% | 7.9% | 114 |
+| Resolucao | 100.0% | 0.0% | 114 |
+| Cadastro Zendesk | 93.0% | 7.0% | 114 |
+| Avaliacao Geral do Atendimento | 85.1% | 14.9% | 114 |
 
 ## 3. Analise de Desempenho por Colaborador
 
@@ -27,18 +27,14 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 
 | Colaborador | Taxa de Cumprimento Geral | Obs. Interna (C/NC) | Resolucao (C/NC) | Zendesk (C/NC) | Total de Atendimentos |
 | --- | --- | --- | --- | --- | --- |
-| Abraão Araujo Andrade de Oliveira | 100.0% | 84/0 | 84/0 | 84/0 | 84 |
-| Ailla Lopes Pereira | 94.8% | 83/1 | 84/0 | 72/12 | 84 |
-| Cassia de Menezes Barboza | 90.5% | 16/5 | 21/0 | 20/1 | 21 |
-| Diego Luciano Duarte Valença | 97.1% | 63/5 | 68/0 | 67/1 | 68 |
-| Gisele Mendonça Damasceno | 97.2% | 82/2 | 84/0 | 79/5 | 84 |
-| Greice Kelly de Andrade Nantet | 98.6% | 24/0 | 24/0 | 23/1 | 24 |
-| Juliana Frontino Ribeiro | 91.7% | 77/7 | 84/0 | 70/14 | 84 |
-| Maria Luiza Baldan Belzoff Fonseca | 93.3% | 53/7 | 60/0 | 55/5 | 60 |
-| Mariana Martins da Silva | 100.0% | 72/0 | 72/0 | 72/0 | 72 |
-| Samara Rodrigues da Silva Barbosa | 89.2% | 62/18 | 80/0 | 72/8 | 80 |
-| Victor Cauã Gomes Maciel | 93.2% | 54/0 | 54/0 | 43/11 | 54 |
-| Yasmim da Silva Gerk | 94.7% | 43/1 | 44/0 | 38/6 | 44 |
+| Abraão Araujo Andrade de Oliveira | 97.9% | 16/0 | 16/0 | 15/1 | 16 |
+| Ailla Lopes Pereira | 97.9% | 16/0 | 16/0 | 15/1 | 16 |
+| Diego Luciano Duarte Valença | 95.8% | 14/2 | 16/0 | 16/0 | 16 |
+| Gisele Mendonça Damasceno | 95.8% | 16/0 | 16/0 | 14/2 | 16 |
+| Juliana Frontino Ribeiro | 93.8% | 13/3 | 16/0 | 16/0 | 16 |
+| Mariana Martins da Silva | 100.0% | 8/0 | 8/0 | 8/0 | 8 |
+| Samara Rodrigues da Silva Barbosa | 86.1% | 8/4 | 12/0 | 11/1 | 12 |
+| Victor Cauã Gomes Maciel | 92.9% | 14/0 | 14/0 | 11/3 | 14 |
 
 **Legenda:** `C/NC` = Cumprido / Nao Cumprido.
 
@@ -46,794 +42,141 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 
 ### Observações Detalhadas
 
-**Abraão Araujo Andrade de Oliveira** - 0 ponto(s) de atencao, 84 ponto(s) positivo(s)
-- ✅ Ticket 68333 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68366 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68419 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68428 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68627 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68645 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68650 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68709 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69083 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69120 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69216 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69307 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69549 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69552 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69565 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69586 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69884 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69891 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69900 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69949 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70295 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70298 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70309 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70313 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70757 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70760 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70878 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70881 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71220 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71226 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71231 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71265 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71562 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71571 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71572 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71579 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71917 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71920 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72065 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72091 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72305 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72359 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72363 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72388 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72766 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72798 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72804 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72966 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73168 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73181 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73233 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73240 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73517 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73575 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73634 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73642 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73895 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73907 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73951 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73957 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74505 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74513 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74660 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74687 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74951 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74976 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75022 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75148 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75385 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75404 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75407 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75467 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75660 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75699 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75733 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75786 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76304 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76317 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76319 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76333 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76618 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76625 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76661 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76711 | Chat | Correto | Sem observação adicional.
+**Abraão Araujo Andrade de Oliveira** - 1 ponto(s) de atencao, 15 ponto(s) positivo(s)
+- ✅ Ticket 77096 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 77123 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 77252 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77257 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77499 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 77499 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 77527 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77556 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77992 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 77996 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78000 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 78091 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78308 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78309 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78328 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 78358 | Chat | Correto | Sem observação adicional.
 
-**Ailla Lopes Pereira** - 13 ponto(s) de atencao, 71 ponto(s) positivo(s)
-- ✅ Ticket 68417 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 68436 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 68467 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68489 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68653 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68659 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 68765 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68771 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69091 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 69102 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 69147 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 69148 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 69531 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 69537 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 69571 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 69599 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 69875 | Redes Sociais | Correto | Enviado avaliação final
-- ✅ Ticket 69915 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 69933 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 69942 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 70436 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 70466 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 70586 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70652 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70762 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70768 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70781 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71062 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 71064 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71568 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 71582 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71592 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71604 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71614 | Redes Sociais | Correto | Enviado avaliação final
-- ✅ Ticket 71702 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 71704 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 72080 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 72106 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72127 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72162 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72303 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 72321 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 72346 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72364 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73017 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73037 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 73039 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 73162 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73179 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73203 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73250 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73288 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 73653 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 73676 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73752 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 73818 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 73885 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73886 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73909 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 73911 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 74408 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74450 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74704 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 74768 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 74981 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75009 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75028 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 75109 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 75408 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 75455 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 75534 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 75725 | Redes Sociais | Correto | Enviado avaliação final
-- ✅ Ticket 75725 | Redes Sociais | Correto | Enviado avaliação final
-- ✅ Ticket 75848 | Redes Sociais | Correto | Enviado avaliação final
-- ✅ Ticket 75940 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75972 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76279 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 76354 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 76387 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76463 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76645 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76684 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76769 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76846 | Chat | Correto | Sem observação adicional.
+**Ailla Lopes Pereira** - 1 ponto(s) de atencao, 15 ponto(s) positivo(s)
+- ⚠️ Ticket 77046 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 77115 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77121 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77290 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 77477 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 77478 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 77485 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77490 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78042 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78043 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 78058 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 78152 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78307 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 78310 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 78346 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78365 | Chat | Correto | Enviado avaliação final
 
-**Cassia de Menezes Barboza** - 6 ponto(s) de atencao, 15 ponto(s) positivo(s)
-- ⚠️ Ticket 68459 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 68637 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68829 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68994 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69119 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69221 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 69487 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 69544 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69758 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69765 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69888 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 69890 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 70000 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 70054 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 70283 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 70441 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 70630 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 70983 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71028 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 71066 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71690 | Chat | Correto | Sem observação adicional.
+**Diego Luciano Duarte Valença** - 2 ponto(s) de atencao, 14 ponto(s) positivo(s)
+- ⚠️ Ticket 77311 | Ligação | Atenção | Sem observação adicional.
+- ✅ Ticket 77312 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 77335 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77366 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 77590 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77657 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77715 | Redes Sociais | Correto | Sem observação adicional.
+- ✅ Ticket 77722 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78008 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78068 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78105 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78133 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 78167 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 78402 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78431 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78439 | Ligação | Correto | Enviado avaliação final
 
-**Diego Luciano Duarte Valença** - 6 ponto(s) de atencao, 62 ponto(s) positivo(s)
-- ✅ Ticket 68310 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68336 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 68348 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68357 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70578 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 70625 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70635 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70650 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70915 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70926 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71053 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71292 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 71292 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71304 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 71318 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71349 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71689 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71723 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71768 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71784 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72026 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72150 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 72157 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72427 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 72457 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72562 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72566 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72680 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72984 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72994 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73012 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 73082 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 73251 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73257 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73278 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73418 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73633 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73712 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73792 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73823 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74080 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74115 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74158 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74175 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74561 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74608 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74740 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74753 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75100 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75103 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 75128 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 75135 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 75427 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75432 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75593 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75815 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 75829 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 75829 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 75832 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 75908 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76198 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 76340 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 76361 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 76452 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 76733 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 76737 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 76761 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76818 | Ligação | Correto | Sem observação adicional.
+**Gisele Mendonça Damasceno** - 2 ponto(s) de atencao, 14 ponto(s) positivo(s)
+- ✅ Ticket - | Não informado | Correto | Sem observação adicional.
+- ✅ Ticket 77332 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77361 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 77404 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77558 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 77609 | Redes Sociais | Correto | Enviado avaliação final
+- ✅ Ticket 77668 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 77756 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 77794 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78021 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78080 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78106 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78129 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 78131 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 78185 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 78604 | Chat | Correto | Enviado avaliação final
 
-**Gisele Mendonça Damasceno** - 7 ponto(s) de atencao, 77 ponto(s) positivo(s)
-- ✅ Ticket 68338 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68539 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68560 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68568 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68780 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68861 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68958 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69020 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69265 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69359 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69370 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69396 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69677 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69688 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69749 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69750 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69979 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70056 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70066 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70095 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70391 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70409 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70424 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70499 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70875 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70880 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70885 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70888 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71321 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 71326 | Redes Sociais | Atenção | Sem observação adicional.
-- ⚠️ Ticket 71338 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 71413 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71634 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 71700 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71774 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71814 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72073 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72079 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72083 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72169 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72410 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72484 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72552 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72560 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72892 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 72917 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 72924 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72955 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73321 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73384 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73405 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 73416 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 73623 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73666 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73766 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73834 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73834 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73973 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74000 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74154 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74564 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74743 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74746 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74815 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 75089 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75102 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 75105 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 75136 | Chat | Atenção | Sinalizado que o ticket fechou antes de colocar a nota
-- ✅ Ticket 75482 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75493 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75496 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75554 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75793 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75825 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75882 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75921 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76358 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76409 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 76417 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 76462 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76703 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76778 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76798 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76813 | Ligação | Correto | Sem observação adicional.
+**Juliana Frontino Ribeiro** - 3 ponto(s) de atencao, 13 ponto(s) positivo(s)
+- ✅ Ticket 77219 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77280 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77286 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 77519 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 77538 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 77695 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 77714 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 77732 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78088 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78094 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78137 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 78141 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78340 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 78341 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 78356 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78362 | Ligação | Correto | Sem observação adicional.
 
-**Greice Kelly de Andrade Nantet** - 1 ponto(s) de atencao, 23 ponto(s) positivo(s)
-- ✅ Ticket 74412 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 74439 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 74492 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74544 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74967 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74978 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75116 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 75208 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 75342 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75354 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 75400 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75437 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75676 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 75778 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 75808 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75834 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76119 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76128 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76153 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 76166 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 76725 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76739 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76741 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76851 | Ligação | Correto | Sem observação adicional.
+**Mariana Martins da Silva** - 0 ponto(s) de atencao, 8 ponto(s) positivo(s)
+- ✅ Ticket 78209 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78215 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78219 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 78221 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78633 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78656 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78660 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 78668 | Ligação | Correto | Enviado avaliação final
 
-**Juliana Frontino Ribeiro** - 21 ponto(s) de atencao, 63 ponto(s) positivo(s)
-- ✅ Ticket 68253 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 68369 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68385 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68434 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68692 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 68748 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 68945 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68953 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69108 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 69113 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 69188 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69230 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 69563 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 69574 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69638 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69690 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 69896 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 69976 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69977 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70049 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 70508 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70515 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70565 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70579 | Redes Sociais | Correto | Enviado avaliação final
-- ✅ Ticket 70790 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70801 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 70834 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70988 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71291 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 71393 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 71401 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71407 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71641 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 71651 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 71944 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 71963 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 71963 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 71984 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72028 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 72055 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 72360 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72372 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72445 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72595 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72853 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 72889 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 72977 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 72993 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 73156 | Redes Sociais | Atenção | Sem observação adicional.
-- ⚠️ Ticket 73193 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 73213 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 73320 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 73555 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 73585 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 73590 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 73604 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73936 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73942 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 74085 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 74099 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74424 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 74487 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74516 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 74517 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 74992 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 75065 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75160 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75215 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75439 | Redes Sociais | Correto | Sem observação adicional.
-- ⚠️ Ticket 75442 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 75445 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 75520 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 75790 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75805 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75864 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 75876 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 76170 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 76316 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 76391 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 76579 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 76640 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76662 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76785 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76866 | Ligação | Correto | Sem observação adicional.
+**Samara Rodrigues da Silva Barbosa** - 5 ponto(s) de atencao, 7 ponto(s) positivo(s)
+- ✅ Ticket 77087 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77107 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 77122 | Redes Sociais | Atenção | Sem observação adicional.
+- ✅ Ticket 77141 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77480 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 77487 | Ligação | Atenção | Sem observação adicional.
+- ⚠️ Ticket 77513 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 77515 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 77938 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77948 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 77970 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 77972 | Chat | Atenção | Sem observação adicional.
 
-**Maria Luiza Baldan Belzoff Fonseca** - 11 ponto(s) de atencao, 49 ponto(s) positivo(s)
-- ✅ Ticket 68980 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 68985 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 69012 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 69016 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 69193 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69195 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69227 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69381 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69803 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69808 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 70011 | Redes Sociais | Atenção | Sem observação adicional.
-- ✅ Ticket 70022 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70026 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70072 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70303 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70305 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70311 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70318 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70729 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70787 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70800 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70810 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71224 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71224 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71225 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71235 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71567 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 71586 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71625 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71642 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71930 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71932 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71948 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71989 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72205 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72212 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73750 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73759 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 73776 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 73793 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 73844 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73890 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73908 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 73924 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 74229 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74300 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 74413 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 74425 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 75180 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75189 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75195 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 75206 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75945 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75977 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76002 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 76029 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 76171 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76432 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 76453 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 76466 | Ligação | Atenção | Sem observação adicional.
-
-**Mariana Martins da Silva** - 0 ponto(s) de atencao, 72 ponto(s) positivo(s)
-- ✅ Ticket 68356 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68363 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68460 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 68483 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68778 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68782 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68810 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68925 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69294 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69302 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69343 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69387 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69651 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 69661 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69703 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69705 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69965 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69975 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70017 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70033 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70438 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70439 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70473 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70603 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70850 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70868 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 70919 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70948 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71311 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 71322 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71371 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71374 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71672 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 71686 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71707 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71751 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71998 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 72023 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72140 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72152 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72155 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 72466 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72474 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72569 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73053 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73056 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73075 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73092 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73306 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73351 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73355 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73368 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 73798 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73802 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 73822 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73837 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74084 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74152 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 74162 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74171 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74727 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74765 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 74770 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74771 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 75111 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75134 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75176 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75179 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76269 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76280 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76374 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76374 | Chat | Correto | Sem observação adicional.
-
-**Samara Rodrigues da Silva Barbosa** - 26 ponto(s) de atencao, 54 ponto(s) positivo(s)
-- ✅ Ticket 68316 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68360 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 68388 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 68497 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68644 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 68657 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 68695 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68717 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68980 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69086 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 69087 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 69138 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 69144 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 69927 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 69955 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 69967 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70068 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 70377 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 70381 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 70468 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70638 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70833 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70854 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70867 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70872 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71249 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71262 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71271 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 71389 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 71615 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 71622 | Redes Sociais | Atenção | Sem observação adicional.
-- ⚠️ Ticket 71632 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 71743 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 71921 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 71925 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 71983 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72329 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72361 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 72478 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 72695 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72791 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 72805 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72900 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 72971 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73150 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 73230 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 73254 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 73308 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 73652 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 73658 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 73661 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73757 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73923 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 73927 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 73932 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 73965 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74442 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74462 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74622 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 74691 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 75042 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 75049 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 75076 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75137 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75462 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75509 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 75522 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75706 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 75715 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 75739 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 75772 | Chat | Atenção | Enviado avaliação final
-- ⚠️ Ticket 75819 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 76130 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 76133 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76139 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 76142 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76642 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76772 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76794 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 76801 | Ligação | Correto | Sem observação adicional.
-
-**Victor Cauã Gomes Maciel** - 11 ponto(s) de atencao, 43 ponto(s) positivo(s)
-- ✅ Ticket 68325 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68339 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68355 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68409 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 68703 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 68730 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68783 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68822 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69126 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 69150 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 69185 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69385 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69579 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69626 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69660 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69664 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 70077 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 70479 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 70510 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70548 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 70794 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 70798 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70816 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 70847 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 71246 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71287 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71328 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71458 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71658 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72077 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 72454 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 72491 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 72629 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 72636 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72797 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73333 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 73592 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 73607 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73649 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73718 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73949 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 73955 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74020 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74536 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74600 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74667 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 74673 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 75091 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 75431 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 75484 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76246 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76329 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 76373 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 76837 | Ligação | Correto | Sem observação adicional.
-
-**Yasmim da Silva Gerk** - 7 ponto(s) de atencao, 37 ponto(s) positivo(s)
-- ✅ Ticket 68273 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68276 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68378 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68380 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 68607 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68634 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 68673 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 68675 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 69151 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 69177 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 69279 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 69280 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 69567 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 69570 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 69634 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 69706 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69899 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 69906 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 69929 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 69964 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 70300 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70332 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70395 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70398 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 70845 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71247 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71255 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 71296 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 71333 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71366 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71395 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71404 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71952 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 71958 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 71979 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 72046 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72355 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72376 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 72424 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 72532 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 73175 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73849 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 73998 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 74277 | Chat | Correto | Sem observação adicional.
+**Victor Cauã Gomes Maciel** - 3 ponto(s) de atencao, 11 ponto(s) positivo(s)
+- ⚠️ Ticket 77075 | Ligação | Atenção | Sem observação adicional.
+- ✅ Ticket 77334 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77580 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77698 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 77792 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 77795 | Ligação | Atenção | Sem observação adicional.
+- ✅ Ticket 77947 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 77963 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 78002 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 78078 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 78357 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78395 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 78416 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 78549 | Ligação | Correto | Enviado avaliação final
 
 
 ## 5. Conclusoes e Recomendacoes
 
 - **Pontos Fortes:** O critério de Resolução continua apresentando um bom desempenho geral, indicando que a equipe tem sido eficaz nesse aspecto do atendimento.
-- **Pontos de Melhoria:** Cadastro Zendesk e Observação Interna são os pontos que necessitam de maior atenção, com percentuais de cumprimento que indicam oportunidades de melhoria.
+- **Pontos de Melhoria:** Observação Interna e Cadastro Zendesk são os pontos que necessitam de maior atenção, com percentuais de cumprimento que indicam oportunidades de melhoria.
 - **Recomendacoes:**
 1.1 Treinamento Contínuo: Reforçar treinamentos sobre a importância e o processo correto de registro na Zendesk e a qualidade das observações internas.
 
