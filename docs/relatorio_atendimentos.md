@@ -1,6 +1,6 @@
-# Relatorio Semanal de Atendimentos Online - 01/09/2026 a 04/09/2026
+# Relatorio Semanal de Atendimentos Online - 08/09/2026 a 11/09/2026
 
-**Data de Emissao:** 10/09/2026
+**Data de Emissao:** 14/09/2026
 
 ## 1. Introducao
 
@@ -14,10 +14,10 @@ A tabela abaixo resume a taxa de cumprimento por criterio no periodo analisado.
 
 | Criterio | Cumprido (%) | Nao Cumprido (%) | Total de Registros |
 | --- | --- | --- | --- |
-| Observacao Interna | 92.1% | 7.9% | 114 |
-| Resolucao | 100.0% | 0.0% | 114 |
-| Cadastro Zendesk | 93.0% | 7.0% | 114 |
-| Avaliacao Geral do Atendimento | 85.1% | 14.9% | 114 |
+| Observacao Interna | 84.2% | 15.8% | 120 |
+| Resolucao | 97.5% | 2.5% | 120 |
+| Cadastro Zendesk | 84.2% | 15.8% | 120 |
+| Avaliacao Geral do Atendimento | 70.8% | 29.2% | 120 |
 
 ## 3. Analise de Desempenho por Colaborador
 
@@ -28,13 +28,15 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 | Colaborador | Taxa de Cumprimento Geral | Obs. Interna (C/NC) | Resolucao (C/NC) | Zendesk (C/NC) | Total de Atendimentos |
 | --- | --- | --- | --- | --- | --- |
 | Abraão Araujo Andrade de Oliveira | 97.9% | 16/0 | 16/0 | 15/1 | 16 |
-| Ailla Lopes Pereira | 97.9% | 16/0 | 16/0 | 15/1 | 16 |
-| Diego Luciano Duarte Valença | 95.8% | 14/2 | 16/0 | 16/0 | 16 |
-| Gisele Mendonça Damasceno | 95.8% | 16/0 | 16/0 | 14/2 | 16 |
-| Juliana Frontino Ribeiro | 93.8% | 13/3 | 16/0 | 16/0 | 16 |
-| Mariana Martins da Silva | 100.0% | 8/0 | 8/0 | 8/0 | 8 |
-| Samara Rodrigues da Silva Barbosa | 86.1% | 8/4 | 12/0 | 11/1 | 12 |
-| Victor Cauã Gomes Maciel | 92.9% | 14/0 | 14/0 | 11/3 | 14 |
+| Ailla Lopes Pereira | 83.3% | 8/0 | 7/1 | 5/3 | 8 |
+| Cassia de Menezes Barboza | 66.7% | 3/1 | 4/0 | 1/3 | 4 |
+| Diego Luciano Duarte Valença | 86.1% | 12/0 | 12/0 | 7/5 | 12 |
+| Gisele Mendonça Damasceno | 91.7% | 7/1 | 7/1 | 8/0 | 8 |
+| Juliana Frontino Ribeiro | 66.7% | 3/13 | 15/1 | 14/2 | 16 |
+| Mariana Martins da Silva | 100.0% | 12/0 | 12/0 | 12/0 | 12 |
+| Samara Rodrigues da Silva Barbosa | 91.7% | 11/1 | 12/0 | 10/2 | 12 |
+| Victor Cauã Gomes Maciel | 89.6% | 14/2 | 16/0 | 13/3 | 16 |
+| Yasmim da Silva Gerk | 97.9% | 15/1 | 16/0 | 16/0 | 16 |
 
 **Legenda:** `C/NC` = Cumprido / Nao Cumprido.
 
@@ -43,134 +45,144 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 ### Observações Detalhadas
 
 **Abraão Araujo Andrade de Oliveira** - 1 ponto(s) de atencao, 15 ponto(s) positivo(s)
-- ✅ Ticket 77096 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 77123 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 77252 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77257 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77499 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 77499 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 77527 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77556 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77992 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 77996 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78000 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 78091 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78308 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78309 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78328 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 78358 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 78987 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79164 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79167 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 79216 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 79699 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 79710 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 79776 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79799 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80125 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80177 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 80211 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 80214 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80461 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80487 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80536 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80540 | Chat | Correto | Enviado avaliação final
 
-**Ailla Lopes Pereira** - 1 ponto(s) de atencao, 15 ponto(s) positivo(s)
-- ⚠️ Ticket 77046 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 77115 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77121 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77290 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 77477 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 77478 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 77485 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77490 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78042 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78043 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 78058 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 78152 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78307 | Ligação | Correto | Enviado avaliação final
-- ✅ Ticket 78310 | Ligação | Correto | Enviado avaliação final
-- ✅ Ticket 78346 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78365 | Chat | Correto | Enviado avaliação final
+**Ailla Lopes Pereira** - 3 ponto(s) de atencao, 5 ponto(s) positivo(s)
+- ✅ Ticket 79106 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79221 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79224 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 79260 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 79861 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 79920 | Chat | Atenção | Sem resolução do ticket
+- ⚠️ Ticket 79945 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 79953 | Ligação | Correto | Enviado avaliação final
 
-**Diego Luciano Duarte Valença** - 2 ponto(s) de atencao, 14 ponto(s) positivo(s)
-- ⚠️ Ticket 77311 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 77312 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 77335 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77366 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 77590 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77657 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77715 | Redes Sociais | Correto | Sem observação adicional.
-- ✅ Ticket 77722 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78008 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78068 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78105 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78133 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 78167 | Ligação | Atenção | Enviado avaliação final
-- ✅ Ticket 78402 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78431 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78439 | Ligação | Correto | Enviado avaliação final
+**Cassia de Menezes Barboza** - 4 ponto(s) de atencao, 0 ponto(s) positivo(s)
+- ⚠️ Ticket 79208 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 79518 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 79545 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 79550 | Ligação | Atenção | Enviado avaliação final
 
-**Gisele Mendonça Damasceno** - 2 ponto(s) de atencao, 14 ponto(s) positivo(s)
-- ✅ Ticket - | Não informado | Correto | Sem observação adicional.
-- ✅ Ticket 77332 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77361 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 77404 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77558 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 77609 | Redes Sociais | Correto | Enviado avaliação final
-- ✅ Ticket 77668 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 77756 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 77794 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78021 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78080 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78106 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78129 | Ligação | Correto | Enviado avaliação final
-- ✅ Ticket 78131 | Ligação | Correto | Enviado avaliação final
-- ⚠️ Ticket 78185 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 78604 | Chat | Correto | Enviado avaliação final
+**Diego Luciano Duarte Valença** - 5 ponto(s) de atencao, 7 ponto(s) positivo(s)
+- ⚠️ Ticket 79131 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 79211 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79222 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 79247 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79899 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 79938 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 79942 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 79943 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 80329 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 80335 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 80350 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 80358 | Chat | Atenção | Enviado avaliação final
 
-**Juliana Frontino Ribeiro** - 3 ponto(s) de atencao, 13 ponto(s) positivo(s)
-- ✅ Ticket 77219 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77280 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77286 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 77519 | Chat | Correto | Enviado avaliação final
-- ⚠️ Ticket 77538 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 77695 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 77714 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 77732 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78088 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78094 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78137 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 78141 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78340 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 78341 | Chat | Atenção | Enviado avaliação final
-- ✅ Ticket 78356 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78362 | Ligação | Correto | Sem observação adicional.
+**Gisele Mendonça Damasceno** - 1 ponto(s) de atencao, 7 ponto(s) positivo(s)
+- ⚠️ Ticket 79594 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 79682 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79823 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79941 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80658 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80678 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80679 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80685 | Ligação | Correto | Enviado avaliação final
 
-**Mariana Martins da Silva** - 0 ponto(s) de atencao, 8 ponto(s) positivo(s)
-- ✅ Ticket 78209 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78215 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78219 | Ligação | Correto | Enviado avaliação final
-- ✅ Ticket 78221 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78633 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78656 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78660 | Ligação | Correto | Enviado avaliação final
-- ✅ Ticket 78668 | Ligação | Correto | Enviado avaliação final
+**Juliana Frontino Ribeiro** - 13 ponto(s) de atencao, 3 ponto(s) positivo(s)
+- ⚠️ Ticket 78992 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 78993 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 79000 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 79030 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 79634 | Chat | Atenção | Nota incompleta / enviada avaliação final
+- ⚠️ Ticket 79777 | Chat | Atenção | Não resolveu a solicitação do associado
+- ⚠️ Ticket 79790 | Ligação | Atenção | Nota incompleta / enviada avaliação final
+- ⚠️ Ticket 79791 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 80274 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 80290 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 80298 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 80305 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 80631 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 80640 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 80706 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 80711 | Chat | Atenção | Enviado avaliação final
 
-**Samara Rodrigues da Silva Barbosa** - 5 ponto(s) de atencao, 7 ponto(s) positivo(s)
-- ✅ Ticket 77087 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77107 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 77122 | Redes Sociais | Atenção | Sem observação adicional.
-- ✅ Ticket 77141 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77480 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 77487 | Ligação | Atenção | Sem observação adicional.
-- ⚠️ Ticket 77513 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 77515 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 77938 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77948 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 77970 | Chat | Atenção | Sem observação adicional.
-- ⚠️ Ticket 77972 | Chat | Atenção | Sem observação adicional.
+**Mariana Martins da Silva** - 0 ponto(s) de atencao, 12 ponto(s) positivo(s)
+- ✅ Ticket 79324 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79357 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79360 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79394 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80344 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80352 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80355 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80367 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80624 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80664 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80680 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80691 | Ligação | Correto | Enviado avaliação final
 
-**Victor Cauã Gomes Maciel** - 3 ponto(s) de atencao, 11 ponto(s) positivo(s)
-- ⚠️ Ticket 77075 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 77334 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77580 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77698 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 77792 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 77795 | Ligação | Atenção | Sem observação adicional.
-- ✅ Ticket 77947 | Ligação | Correto | Sem observação adicional.
-- ⚠️ Ticket 77963 | Chat | Atenção | Sem observação adicional.
-- ✅ Ticket 78002 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 78078 | Chat | Correto | Sem observação adicional.
-- ✅ Ticket 78357 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78395 | Ligação | Correto | Enviado avaliação final
-- ✅ Ticket 78416 | Chat | Correto | Enviado avaliação final
-- ✅ Ticket 78549 | Ligação | Correto | Enviado avaliação final
+**Samara Rodrigues da Silva Barbosa** - 3 ponto(s) de atencao, 9 ponto(s) positivo(s)
+- ✅ Ticket 78900 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79095 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79099 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 79146 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 80065 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 80090 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 80112 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80146 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80463 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80465 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 80485 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 80593 | Ligação | Correto | Enviado avaliação final
+
+**Victor Cauã Gomes Maciel** - 4 ponto(s) de atencao, 12 ponto(s) positivo(s)
+- ✅ Ticket 78941 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 79159 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 79178 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79233 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 79514 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 79611 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 79705 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 79730 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 80122 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 80140 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80296 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80316 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80585 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80613 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80649 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 80701 | Chat | Atenção | Enviado avaliação final
+
+**Yasmim da Silva Gerk** - 1 ponto(s) de atencao, 15 ponto(s) positivo(s)
+- ✅ Ticket 79023 | Redes Sociais | Correto | Enviado avaliação final
+- ✅ Ticket 79056 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79056 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79063 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 79733 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 79765 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 79817 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 79825 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80129 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80143 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80258 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80281 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 80470 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 80528 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 80553 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 80623 | Ligação | Correto | Enviado avaliação final
 
 
 ## 5. Conclusoes e Recomendacoes
