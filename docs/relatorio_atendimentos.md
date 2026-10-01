@@ -14,10 +14,10 @@ A tabela abaixo resume a taxa de cumprimento por criterio no periodo analisado.
 
 | Criterio | Cumprido (%) | Nao Cumprido (%) | Total de Registros |
 | --- | --- | --- | --- |
-| Observacao Interna | 85.9% | 14.1% | 92 |
-| Resolucao | 100.0% | 0.0% | 92 |
-| Cadastro Zendesk | 80.4% | 19.6% | 92 |
-| Avaliacao Geral do Atendimento | 67.4% | 32.6% | 92 |
+| Observacao Interna | 86.0% | 14.0% | 100 |
+| Resolucao | 100.0% | 0.0% | 100 |
+| Cadastro Zendesk | 82.0% | 18.0% | 100 |
+| Avaliacao Geral do Atendimento | 69.0% | 31.0% | 100 |
 
 ## 3. Analise de Desempenho por Colaborador
 
@@ -32,6 +32,7 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 | Cassia de Menezes Barboza | 97.2% | 12/0 | 12/0 | 11/1 | 12 |
 | Diego Luciano Duarte Valença | 91.7% | 8/0 | 8/0 | 6/2 | 8 |
 | Juliana Frontino Ribeiro | 88.9% | 11/1 | 12/0 | 9/3 | 12 |
+| Mariana Martins da Silva | 95.8% | 7/1 | 8/0 | 8/0 | 8 |
 | Samara Rodrigues da Silva Barbosa | 83.3% | 8/4 | 12/0 | 10/2 | 12 |
 | Victor Cauã Gomes Maciel | 75.0% | 8/4 | 12/0 | 7/5 | 12 |
 | Yasmim da Silva Gerk | 86.1% | 9/3 | 12/0 | 10/2 | 12 |
@@ -107,6 +108,16 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 86195 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 86198 | Chat | Correto | Enviado avaliação final
 - ✅ Ticket 86233 | Ligação | Correto | Enviado avaliação final
+
+**Mariana Martins da Silva** - 1 ponto(s) de atencao, 7 ponto(s) positivo(s)
+- ⚠️ Ticket 86156 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 86196 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86219 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86260 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86290 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86330 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86336 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86336 | Ligação | Correto | Enviado avaliação final
 
 **Samara Rodrigues da Silva Barbosa** - 6 ponto(s) de atencao, 6 ponto(s) positivo(s)
 - ⚠️ Ticket 85501 | Chat | Atenção | Enviado avaliação final
