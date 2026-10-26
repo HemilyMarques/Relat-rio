@@ -35,8 +35,7 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 | Maria Luiza Baldan Belzoff Fonseca | 75.0% | 3/1 | 3/1 | 3/1 | 4 |
 | Mariana Martins da Silva | 100.0% | 8/0 | 8/0 | 8/0 | 8 |
 | Samara Rodrigues da Silva Barbosa | 95.0% | 20/0 | 19/1 | 18/2 | 20 |
-| Victor Cauã Gomes Maciel | 94.4% | 11/1 | 12/0 | 11/1 | 12 |
-| Yasmim da Silva Gerk | 91.7% | 3/1 | 4/0 | 4/0 | 4 |
+| Victor Cauã Gomes Maciel | 93.8% | 14/2 | 16/0 | 15/1 | 16 |
 
 **Legenda:** `C/NC` = Cumprido / Nao Cumprido.
 
@@ -192,7 +191,11 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 92120 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 92126 | Ligação | Correto | Sem observação adicional.
 
-**Victor Cauã Gomes Maciel** - 2 ponto(s) de atencao, 10 ponto(s) positivo(s)
+**Victor Cauã Gomes Maciel** - 3 ponto(s) de atencao, 13 ponto(s) positivo(s)
+- ✅ Ticket 90953 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90954 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90972 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 91001 | Chat | Atenção | Sem observação adicional.
 - ⚠️ Ticket 91290 | Chat | Atenção | Sem observação adicional.
 - ✅ Ticket 91305 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 91351 | Ligação | Correto | Sem observação adicional.
@@ -205,12 +208,6 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 92016 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 92021 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 92031 | Ligação | Correto | Sem observação adicional.
-
-**Yasmim da Silva Gerk** - 1 ponto(s) de atencao, 3 ponto(s) positivo(s)
-- ✅ Ticket 90953 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 90954 | Ligação | Correto | Sem observação adicional.
-- ✅ Ticket 90972 | Chat | Correto | Sem observação adicional.
-- ⚠️ Ticket 91001 | Chat | Atenção | Sem observação adicional.
 
 
 ## 5. Conclusoes e Recomendacoes
