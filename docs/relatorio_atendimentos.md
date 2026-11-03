@@ -1,4 +1,4 @@
-# Relatorio Semanal de Atendimentos Online - 26/10/2026 a 30/10/2026
+# Relatorio Semanal de Atendimentos Online - 01/10/2026 a 30/10/2026
 
 **Data de Emissao:** 03/11/2026
 
@@ -14,10 +14,10 @@ A tabela abaixo resume a taxa de cumprimento por criterio no periodo analisado.
 
 | Criterio | Cumprido (%) | Nao Cumprido (%) | Total de Registros |
 | --- | --- | --- | --- |
-| Observacao Interna | 91.7% | 8.3% | 156 |
-| Resolucao | 100.0% | 0.0% | 156 |
-| Cadastro Zendesk | 92.9% | 7.1% | 156 |
-| Avaliacao Geral do Atendimento | 85.3% | 14.7% | 156 |
+| Observacao Interna | 87.7% | 12.3% | 699 |
+| Resolucao | 98.6% | 1.4% | 699 |
+| Cadastro Zendesk | 90.7% | 9.3% | 699 |
+| Avaliacao Geral do Atendimento | 79.7% | 20.3% | 699 |
 
 ## 3. Analise de Desempenho por Colaborador
 
@@ -27,15 +27,16 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 
 | Colaborador | Taxa de Cumprimento Geral | Obs. Interna (C/NC) | Resolucao (C/NC) | Zendesk (C/NC) | Total de Atendimentos |
 | --- | --- | --- | --- | --- | --- |
-| Abraão Araujo Andrade de Oliveira | 100.0% | 20/0 | 20/0 | 20/0 | 20 |
-| Ailla Lopes Pereira | 95.0% | 20/0 | 20/0 | 17/3 | 20 |
-| Cassia de Menezes Barboza | 93.3% | 18/2 | 20/0 | 18/2 | 20 |
-| Diego Luciano Duarte Valença | 95.0% | 17/3 | 20/0 | 20/0 | 20 |
-| Juliana Frontino Ribeiro | 95.0% | 19/1 | 20/0 | 18/2 | 20 |
-| Mariana Martins da Silva | 100.0% | 4/0 | 4/0 | 4/0 | 4 |
-| Samara Rodrigues da Silva Barbosa | 96.7% | 19/1 | 20/0 | 19/1 | 20 |
-| Victor Cauã Gomes Maciel | 90.0% | 16/4 | 20/0 | 18/2 | 20 |
-| Yasmim da Silva Gerk | 91.7% | 10/2 | 12/0 | 11/1 | 12 |
+| Abraão Araujo Andrade de Oliveira | 100.0% | 84/0 | 84/0 | 84/0 | 84 |
+| Ailla Lopes Pereira | 93.5% | 65/7 | 71/1 | 66/6 | 72 |
+| Cassia de Menezes Barboza | 91.3% | 76/8 | 84/0 | 70/14 | 84 |
+| Diego Luciano Duarte Valença | 93.3% | 73/11 | 84/0 | 78/6 | 84 |
+| Juliana Frontino Ribeiro | 90.9% | 76/8 | 83/1 | 70/14 | 84 |
+| Maria Luiza Baldan Belzoff Fonseca | 87.6% | 27/8 | 33/2 | 32/3 | 35 |
+| Mariana Martins da Silva | 98.8% | 55/1 | 56/0 | 55/1 | 56 |
+| Samara Rodrigues da Silva Barbosa | 91.7% | 69/11 | 78/2 | 73/7 | 80 |
+| Victor Cauã Gomes Maciel | 84.2% | 54/22 | 72/4 | 66/10 | 76 |
+| Yasmim da Silva Gerk | 89.4% | 34/10 | 44/0 | 40/4 | 44 |
 
 **Legenda:** `C/NC` = Cumprido / Nao Cumprido.
 
@@ -43,7 +44,71 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 
 ### Observações Detalhadas
 
-**Abraão Araujo Andrade de Oliveira** - 0 ponto(s) de atencao, 20 ponto(s) positivo(s)
+**Abraão Araujo Andrade de Oliveira** - 0 ponto(s) de atencao, 84 ponto(s) positivo(s)
+- ✅ Ticket 86408 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86458 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86618 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86629 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86728 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86827 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86836 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86860 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87301 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87379 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87379 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87545 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87656 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87768 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87776 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87850 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88022 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88038 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88059 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88064 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88404 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88447 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88453 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88469 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88716 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88726 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88731 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88804 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89135 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89308 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89312 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89322 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89521 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89533 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89556 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89637 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89861 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89877 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89973 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89995 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90182 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90193 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90232 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90257 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90627 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90639 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 90730 | Redes Sociais | Correto | Sem observação adicional.
+- ✅ Ticket 90732 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90992 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91045 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91090 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91139 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91298 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91301 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91307 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91322 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91658 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91668 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91701 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91711 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91781 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91966 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91997 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 92039 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 92307 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 92343 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 92373 | Chat | Correto | Sem observação adicional.
@@ -65,7 +130,59 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 93579 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 93590 | Ligação | Correto | Sem observação adicional.
 
-**Ailla Lopes Pereira** - 3 ponto(s) de atencao, 17 ponto(s) positivo(s)
+**Ailla Lopes Pereira** - 13 ponto(s) de atencao, 59 ponto(s) positivo(s)
+- ✅ Ticket 82041 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 86382 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 86421 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86637 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86651 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86651 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86737 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 86742 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 86759 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86938 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87155 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87211 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87221 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87671 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87686 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87855 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87884 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88095 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88175 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 88186 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88195 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88417 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88449 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88722 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88790 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88842 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88858 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88918 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 89476 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 89514 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 89539 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 89562 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90623 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 90650 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 90728 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90817 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 90976 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 90986 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 91096 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91154 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91288 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91297 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91353 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 91373 | Ligação | Atenção | Sem observação adicional.
+- ✅ Ticket 91712 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91750 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 91766 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 91811 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91931 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91950 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91957 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 92109 | Chat | Atenção | Sem observação adicional.
 - ✅ Ticket 92401 | Chat | Correto | Sem observação adicional.
 - ⚠️ Ticket 92409 | Chat | Atenção | Sem observação adicional.
 - ✅ Ticket 92428 | Ligação | Correto | Sem observação adicional.
@@ -87,7 +204,71 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 93609 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 93619 | Chat | Correto | Sem observação adicional.
 
-**Cassia de Menezes Barboza** - 4 ponto(s) de atencao, 16 ponto(s) positivo(s)
+**Cassia de Menezes Barboza** - 21 ponto(s) de atencao, 63 ponto(s) positivo(s)
+- ✅ Ticket 86650 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86666 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86670 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86687 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86743 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86756 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86810 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 86987 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 87270 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 87288 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 87436 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87440 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87727 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87757 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87765 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87915 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88023 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 88027 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88043 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 88211 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 88396 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88408 | Redes Sociais | Correto | Enviado avaliação final
+- ✅ Ticket 88409 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88539 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88677 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88692 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88851 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88885 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89224 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89256 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89368 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89370 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89501 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89509 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 89571 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 89674 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 89874 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 89906 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 89917 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 89932 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90195 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90196 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 90212 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 90268 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 90416 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90611 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 90670 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 90841 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 90956 | Ligação | Atenção | Sem observação adicional.
+- ⚠️ Ticket 90968 | Chat | Atenção | Sem observação adicional.
+- ⚠️ Ticket 90975 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 91165 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91347 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91374 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91376 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91395 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91618 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 91620 | Ligação | Atenção | Sem observação adicional.
+- ✅ Ticket 91690 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 91829 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 92084 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 92096 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 92100 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 92124 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 92253 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 92291 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 92315 | Ligação | Correto | Sem observação adicional.
@@ -109,7 +290,71 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ⚠️ Ticket 93744 | Ligação | Atenção | Sem observação adicional.
 - ⚠️ Ticket 93747 | Chat | Atenção | Sem observação adicional.
 
-**Diego Luciano Duarte Valença** - 3 ponto(s) de atencao, 17 ponto(s) positivo(s)
+**Diego Luciano Duarte Valença** - 16 ponto(s) de atencao, 68 ponto(s) positivo(s)
+- ✅ Ticket 86456 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86456 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86663 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86696 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86975 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86978 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86986 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86990 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87345 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87425 | Redes Sociais | Correto | Enviado avaliação final
+- ✅ Ticket 87441 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87476 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87879 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87881 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87881 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87913 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88115 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88129 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 88197 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88237 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88479 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88581 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88585 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 88596 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88774 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88792 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88861 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88875 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89270 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 89277 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 89403 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89433 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89614 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 89617 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 89701 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89739 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90026 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90057 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90063 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 90108 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 90108 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 90310 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90312 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 90384 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 90712 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90725 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 90734 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 90766 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 91192 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91220 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91226 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91237 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91383 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91400 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 91519 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 91523 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91801 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 91814 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 91830 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91840 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 92078 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 92107 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 92119 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 92122 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 92418 | Ligação | Correto | Sem observação adicional.
 - ⚠️ Ticket 92482 | Ligação | Atenção | Sem observação adicional.
 - ✅ Ticket 92509 | Chat | Correto | Sem observação adicional.
@@ -131,7 +376,71 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 93755 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 93783 | Ligação | Correto | Sem observação adicional.
 
-**Juliana Frontino Ribeiro** - 3 ponto(s) de atencao, 17 ponto(s) positivo(s)
+**Juliana Frontino Ribeiro** - 18 ponto(s) de atencao, 66 ponto(s) positivo(s)
+- ✅ Ticket 86369 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86485 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86620 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86655 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 86837 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 86840 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86893 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87009 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87236 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 87289 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 87291 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87480 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87701 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87710 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87716 | Redes Sociais | Correto | Enviado avaliação final
+- ✅ Ticket 87825 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 88082 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88103 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88135 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88206 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88296 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88524 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 88580 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88583 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88592 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88717 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88732 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88747 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 89262 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 89287 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89303 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89360 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 89378 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 89543 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89543 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89544 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 89933 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 89994 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90007 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90029 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 90330 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 90369 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90373 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90382 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 90747 | Ligação | Atenção | Sem observação adicional.
+- ✅ Ticket 90784 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90816 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 90835 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91170 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 91184 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 91191 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 91208 | Ligação | Atenção | Sem observação adicional.
+- ✅ Ticket 91341 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91379 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91384 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 91388 | Ligação | Atenção | Sem observação adicional.
+- ✅ Ticket 91639 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 91787 | Ligação | Atenção | Sem observação adicional.
+- ✅ Ticket 91799 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 91825 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 91976 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91980 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 92027 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 92174 | Chat | Atenção | Sem observação adicional.
 - ✅ Ticket 92316 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 92407 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 92467 | Chat | Correto | Sem observação adicional.
@@ -153,14 +462,163 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 93696 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 93749 | Ligação | Correto | Sem observação adicional.
 
-**Mariana Martins da Silva** - 0 ponto(s) de atencao, 4 ponto(s) positivo(s)
+**Maria Luiza Baldan Belzoff Fonseca** - 9 ponto(s) de atencao, 26 ponto(s) positivo(s)
+- ⚠️ Ticket 86414 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 86436 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86447 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86497 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86505 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86846 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86910 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86935 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87199 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87208 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87229 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87581 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87581 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 87616 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 87631 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 87632 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88240 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88265 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88281 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88297 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88601 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 88864 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 89080 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89150 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 89165 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 89169 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 89192 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 89461 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89920 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 89927 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 89929 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90592 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 90617 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 90652 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 90690 | Chat | Atenção | Sem observação adicional.
+
+**Mariana Martins da Silva** - 2 ponto(s) de atencao, 54 ponto(s) positivo(s)
+- ✅ Ticket 86537 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86674 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86693 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86695 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86858 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86873 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86876 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 86984 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87341 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87343 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87502 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87504 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87618 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87911 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87916 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87951 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88160 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88210 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88212 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88225 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88481 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88515 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 88582 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88610 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88806 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88808 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88815 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88880 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89359 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89438 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89444 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89448 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89646 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89661 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89678 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89725 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89967 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90005 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90100 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90110 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90285 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 90308 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 90378 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90418 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90738 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90763 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90863 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 90876 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91716 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91723 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91755 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91810 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 93159 | Redes Sociais | Correto | Sem observação adicional.
 - ✅ Ticket 93164 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 93165 | Redes Sociais | Correto | Sem observação adicional.
 - ✅ Ticket 93171 | Ligação | Correto | Sem observação adicional.
 
-**Samara Rodrigues da Silva Barbosa** - 2 ponto(s) de atencao, 18 ponto(s) positivo(s)
+**Samara Rodrigues da Silva Barbosa** - 19 ponto(s) de atencao, 61 ponto(s) positivo(s)
+- ✅ Ticket 57632 | Ligação | Correto | Enviado avaliação final
 - ✅ Ticket 82142 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 86427 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 86451 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 86514 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 86615 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 86770 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 86771 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 86772 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 86895 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 87435 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87444 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87506 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87744 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87827 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 87870 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 87953 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87953 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 87969 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88121 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88230 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88556 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 88595 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88600 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88613 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 88788 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88825 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88856 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 88881 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89309 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89395 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 89406 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 89432 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89975 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90009 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90017 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90120 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90383 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90393 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90436 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90450 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 90709 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 90803 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90849 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 90859 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 91141 | Redes Sociais | Atenção | Sem observação adicional.
+- ✅ Ticket 91147 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91172 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91227 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91377 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91386 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91527 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 91560 | Chat | Atenção | Associado fez um questionamento, mas o acolhedor não lhe explicou e apenas direcionou para pedido
+- ✅ Ticket 91768 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91827 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 91845 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 91850 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 92089 | Redes Sociais | Correto | Sem observação adicional.
+- ✅ Ticket 92116 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 92120 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 92126 | Ligação | Correto | Sem observação adicional.
 - ⚠️ Ticket 92326 | Chat | Atenção | Sem observação adicional.
 - ✅ Ticket 92423 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 92473 | Ligação | Correto | Sem observação adicional.
@@ -181,7 +639,63 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 93770 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 93776 | Chat | Correto | Sem observação adicional.
 
-**Victor Cauã Gomes Maciel** - 5 ponto(s) de atencao, 15 ponto(s) positivo(s)
+**Victor Cauã Gomes Maciel** - 30 ponto(s) de atencao, 46 ponto(s) positivo(s)
+- ⚠️ Ticket 86472 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 86484 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 86501 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 86600 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 86819 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86832 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 86999 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 87001 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 87201 | Ligação | Atenção | Enviado avaliação final / nota incompleta
+- ✅ Ticket 87338 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87381 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 87572 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 87672 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 87677 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 87689 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 87702 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88005 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88006 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88019 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88021 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88423 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88462 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 88510 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88544 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88736 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88753 | Ligação | Correto | Enviado avaliação final / nota incompleta
+- ⚠️ Ticket 88787 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88805 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 89163 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 89172 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 89185 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 89242 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 89513 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 89526 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 89546 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89555 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89875 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 89878 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 89911 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 90019 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 90179 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 90185 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 90248 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90275 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 91290 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 91305 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91351 | Ligação | Correto | Sem observação adicional.
+- ⚠️ Ticket 91380 | Chat | Atenção | Sem observação adicional.
+- ✅ Ticket 91705 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91784 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 91802 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91808 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 91940 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 92016 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 92021 | Chat | Correto | Sem observação adicional.
+- ✅ Ticket 92031 | Ligação | Correto | Sem observação adicional.
 - ✅ Ticket 92277 | Chat | Correto | Sem observação adicional.
 - ⚠️ Ticket 92281 | Chat | Atenção | Sem observação adicional.
 - ✅ Ticket 92284 | Ligação | Correto | Sem observação adicional.
@@ -203,7 +717,39 @@ O ranking a seguir mostra a taxa geral de cumprimento por colaborador com base n
 - ✅ Ticket 93694 | Chat | Correto | Sem observação adicional.
 - ✅ Ticket 93846 | Ligação | Correto | Sem observação adicional.
 
-**Yasmim da Silva Gerk** - 3 ponto(s) de atencao, 9 ponto(s) positivo(s)
+**Yasmim da Silva Gerk** - 14 ponto(s) de atencao, 30 ponto(s) positivo(s)
+- ✅ Ticket 86407 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 86516 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 86554 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86610 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86795 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 86824 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 86883 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 86909 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87196 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87219 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87222 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87262 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 87676 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 87700 | Chat | Correto | Enviado avaliação final
+- ✅ Ticket 87848 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 87878 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 88119 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88133 | Ligação | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88174 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88216 | Ligação | Correto | Enviado avaliação final
+- ⚠️ Ticket 88432 | Chat | Atenção | Enviado avaliação final
+- ✅ Ticket 88473 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88491 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 88713 | Chat | Correto | Enviado avaliação final
+- ⚠️ Ticket 88752 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88758 | Chat | Atenção | Enviado avaliação final
+- ⚠️ Ticket 88771 | Ligação | Atenção | Enviado avaliação final
+- ✅ Ticket 88785 | Ligação | Correto | Enviado avaliação final
+- ✅ Ticket 90953 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90954 | Ligação | Correto | Sem observação adicional.
+- ✅ Ticket 90972 | Chat | Correto | Sem observação adicional.
+- ⚠️ Ticket 91001 | Chat | Atenção | Sem observação adicional.
 - ✅ Ticket 92951 | Chat | Correto | Sem observação adicional.
 - ⚠️ Ticket 93057 | Chat | Atenção | Sem observação adicional.
 - ✅ Ticket 93074 | Ligação | Correto | Sem observação adicional.
